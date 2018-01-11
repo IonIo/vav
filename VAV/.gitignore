@@ -25,12 +25,13 @@ bin/
 Bin/
 obj/
 Obj/
-
+package-lock.json
 # Visual Studio 2015 cache/options directory
 .vs/
 /wwwroot/dist/
 /ClientApp/dist/
-
+node_modules/
+vav-web/documentation
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
